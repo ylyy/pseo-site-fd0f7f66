@@ -16,8 +16,6 @@ theme:
     - search.highlight
     - content.code.copy
 
-  - "2026全球买家淘宝": 2026全球买家淘宝鼠标购物终极指南-跨境选购-支付与防坑秘籍.md
-
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -31,3 +29,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Articles:
+    - 2026全球买家淘宝鼠标购物终极指南：跨境选购、支付与防坑秘籍: 2026全球买家淘宝鼠标购物终极指南-跨境选购-支付与防坑秘籍.md
